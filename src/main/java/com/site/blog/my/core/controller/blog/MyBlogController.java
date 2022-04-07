@@ -27,8 +27,8 @@ public class MyBlogController {
         三种前端主题
      */
 //    public static String theme = "default";
-    public static String theme = "yummy-jekyll";
-//    public static String theme = "amaze";
+//    public static String theme = "yummy-jekyll";
+    public static String theme = "amaze";
     @Resource
     private BlogService blogService;
     @Resource

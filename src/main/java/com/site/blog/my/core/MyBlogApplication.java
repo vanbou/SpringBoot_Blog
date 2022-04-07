@@ -5,10 +5,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * @author 13
- * @qq交流群 796794009
- * @email 2449207463@qq.com
- * @link http://13blog.site
+ * Description :
+ * Created by Resumebb
+ * Date :2022/3/29
  */
 @MapperScan("com.site.blog.my.core.dao")
 @SpringBootApplication
