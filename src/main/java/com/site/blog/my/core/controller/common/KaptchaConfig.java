@@ -6,7 +6,11 @@ import org.springframework.stereotype.Component;
 import com.google.code.kaptcha.util.Config;
 
 import java.util.Properties;
-
+/**
+ * Description :
+ * Created by Resumebb
+ * Date :2022/4/4
+ */
 @Component
 public class KaptchaConfig {
     @Bean
